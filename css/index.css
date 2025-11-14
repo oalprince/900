@@ -3,8 +3,8 @@ html, body {
   padding: 0;
   min-height: 100vh;
   font-family: 'Segoe UI', Arial, sans-serif;
-  background: #111 url('logo.png') no-repeat center center;
-  background-size: 400px; /* حجم اللوجو */
+  background: #111 url('logo.jpg') no-repeat center center;
+  background-size: 1550px; /* حجم اللوجو */
   background-attachment: fixed; /* يفضل ثابت */
   background-blend-mode: overlay; /* يدمج اللوجو مع الخلفية */
   color: #fff;
