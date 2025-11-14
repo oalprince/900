@@ -1,5 +1,49 @@
-Firmwares: 9.00
+# PSFree
+PSFree is a unstable and work in progress jailbreak multi firmware website for the PlayStation 4 and the PlayStation 5.
 
-Steps: In the PS4 browser go to: https://oalprince.github.io/900/ Select the Firmware that your console has.
-Immediately All content will be installed in Cache, once finished exit the browser and turn off the internet. 
-Then go back to Access Browser and Enjoy
+This repo is based on the work of two other repo :
+- [PSFree from Kame repo](https://github.com/kmeps4/PSFree) 
+- [PSFree from Al-Azif repo](https://github.com/Al-Azif/psfree-lapse)
+
+<h1 style="color:red;text-align:center;">⚠️PLEASE DO NOT REPORT ERRORS FROM THIS REPO TO THEIR REPOS⚠️</h1>
+
+<h2 style="color:red;text-align:center;">⚠️PLEASE TEST OTHER REPOS BEFORE OPENING A ISSUE ON THIS REPO⚠️</h2>
+
+___
+
+### Know issues
+- Black screen on certain game.
+- Save corruption on certain game.
+- PS4 crash.
+- Some payloads not working correctly.
+
+### Currently working firmware
+
+This repo only support PS4 for now.
+
+
+| Console | Firmware |
+|:------ |:----------|
+| PS4 | 7.00 - 9.60 |
+
+
+# How to run
+
+## Website
+[Click Here](https://nazky.github.io/PSFree/)
+
+## Locally
+
+You need python !
+
+### Python
+##### Linux:
+Just start the 'start_server.sh'.
+
+###### Command:
+```bash
+sudo chmod start_server.sh
+./start_server.sh
+```
+##### Windows:
+Just start (double-click) the start_server.bat.
